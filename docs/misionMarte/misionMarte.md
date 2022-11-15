@@ -1,6 +1,6 @@
 # **Misión Marte**
 <center>
-![](/img/introduccion/obrero.gif)
+![](../img/introduccion/obrero.gif)
 
 En contrucción
 </center>
