@@ -10,7 +10,7 @@ El robot [EscornaRover](https://www.thingiverse.com/thing:4911480) controlado re
 
 |    |    |
 | :-:| :-:|
-| ![escornaroverSensorTemp](/img/misionMarte/escornaroverSensorTemp.png) | ![appEscornaRover](/img/misionMarte/appEscornaRover.png) |
+| ![escornaroverSensorTemp](../img/misionMarte/escornaroverSensorTemp.png) | ![appEscornaRover](../img/misionMarte/appEscornaRover.png) |
 | _EscornaRover Explorador_ | _App de control del EscornaRover_ |
 
 </center>
@@ -21,7 +21,7 @@ El robot [Rover Marciano](http://www.cantabrobots.es/?page_id=1237), controlado 
 
 |    |    |
 | :-:| :-:|
-| ![misionMarte01](/img/misionMarte/misionMarte01.png) | ![joystickBlynk01](/img/misionMarte/joystickBlynk01.png) |
+| ![misionMarte01](.../img/misionMarte/misionMarte01.png) | ![joystickBlynk01](.../img/misionMarte/joystickBlynk01.png) |
 | _Rover Marciano_ | _App de control del Rover_ |
 
 </center>
