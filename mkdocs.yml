@@ -26,7 +26,10 @@ copyright: Copyright &copy; 2022- 2030 Club Robótica Granada
 nav:
   # Modelo para empezar: Intro, Info del autor y la instalación
   - Introducción: index.md
-  - Misión a Marte: misionMarte/misionMarte.md
+  - Misión a Marte: 
+    - Introducción: misionMarte/index.md
+    - EscornaRover Explorador: misionMarte/explorador.md
+    - Rover Marciano: misionMarte/rover.md
   - Autores: about.md
   
 # 6. Google Analytics
