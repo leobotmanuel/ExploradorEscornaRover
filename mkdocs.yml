@@ -13,14 +13,20 @@ edit_uri: ""
 copyright: Copyright &copy; 2022- 2030 Club Robótica Granada
 
 # 4. RRSS
-#extra:
-#  social:
-#    - type: github
-#      link: https://github.com/leobotmanuel
-#    - type: twitter
-#      link: https://twitter.com/leobotmanuel
-#    - type: linkedin
-#      link: https://www.linkedin.com/in/hidalgodiazmanuel/
+extra:
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/leobotmanuel
+      name: Twitter de LeoBot - Manuel Hidalgo
+    - icon: fontawesome/brands/github
+      link: https://github.com/leobotmanuel
+      name: Github de LeoBot - Manuel Hidalgo
+    #- icon: fontawesome/brands/instagram
+    #  link: https://www.instagram.com/cocafederico/?hl=es
+    #  name: Instagram de Federico Coca
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/clubroboticagra
+      name: Twitter de Club Robótica Granada 
 
 # 5. Navegación
 nav:
