@@ -23,14 +23,16 @@ Los elementos de nuestro rover:
 ![](../img/misionMarte/rover03.png)
 </center>
 
-### Blynk
+## **App de control**
+
+### **Blynk**
 Blynk es una plataforma de IoT independiente del hardware y basada en la nube que permite a los usuarios conectar hardware con la nube Blynk segura y de código abierto a través de wifi, 2G-4G, LTE o Ethernet. Manuel
 <center>
 ![](../img/misionMarte/architectureBlynk.png)
 [Arquitectura Blynk](https://docs.blynk.cc/#getting-started)
 </center>
 
-## **App de control**
+### **Programación App**
 El control de la electrónica de los movimientos de robot rover se desarrolla con la plataforma [Blynk](https://blynk.uptodown.com/android) utilizando el widget **Joystick** y configurando los ejes como pines **Virtuales V0 y V1**.
 <center>
 ![](../img/misionMarte/joystick01.png)
