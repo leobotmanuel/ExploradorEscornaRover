@@ -48,19 +48,19 @@ En el programa [ArduinoBlocks](http://www.arduinoblocks.com) utilizamos los valo
 ## **Programación ESP8266/NodeMCU**
 La programación se desarrolla con el lenguaje visual de programación [ArduinoBlocks](http://www.arduinoblocks.com) para un proyecto tipo ESP8266/NodeMCU v2.
 
-### Inicialización comunicaciones
+### **Inicialización comunicaciones**
 En el bloque de "Inicializar" colocamos los bloques para conectarnos a la wifi poniendo el nombre (SSID) y la clave, el bloque de [Blynk](https://blynk.uptodown.com/android) para la comunicación con el servidor y el bloque de comunicación al puerto serie (opcional).
 <center>
 ![](../img/misionMarte/progControl01.png)
 </center>
 
-### Recepción de datos
+### **Recepción de datos**
 De la App del móvil vamos a recibir datos correspondientes al movimiento del joystick. Estos datos se reciben por un bloque de [Blynk](https://blynk.uptodown.com/android) correspondiente a los pines virtuales declarados en la App y asignados a las variables X e Y del programa de robot.
 <center>
 ![](../img/misionMarte/progControl02.png)
 </center>
 
-### Programa principal
+### **Programa principal**
 El bloque "Bucle" empieza con los bloques de instrucciones (opcionales) que envía el valor de las variables X e Y a la Consola (puerto serie) que recibe del la App de [Blynk](https://blynk.uptodown.com/android). Estos valores nos sirve para ajustar los movimientos del robot rover.
 
 Los bloques de instrucciones condicionales determinan el movimiento del [Rover Marciano](http://www.cantabrobots.es/?page_id=1237) según los valores recibidos en las variables X e Y.
