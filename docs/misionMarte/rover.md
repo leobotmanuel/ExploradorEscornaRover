@@ -30,7 +30,7 @@ La programación se desarrolla con el lenguaje visual de programación [ArduinoB
 El control de los movimientos de robot rover se desarrolla con la plataforma [Blynk](https://blynk.uptodown.com/android)
 
 ### Blynk
-Blynk es una plataforma de IoT independiente del hardware y basada en la nube que permite a los usuarios conectar hardware con la nube Blynk segura y de código abierto a través de wifi, 2G-4G, LTE o Ethernet.
+Blynk es una plataforma de IoT independiente del hardware y basada en la nube que permite a los usuarios conectar hardware con la nube Blynk segura y de código abierto a través de wifi, 2G-4G, LTE o Ethernet. Manuel
 <center>
 ![](../img/misionMarte/architectureBlynk.png)
 [Arquitectura Blynk](https://docs.blynk.cc/#getting-started)
