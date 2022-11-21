@@ -1,7 +1,6 @@
 <center>
-![](../img/introduccion/obrero.gif)
+![](../img/misionMarte/sistemaRover.png)
 
-En contrucción
 </center>
 
 El robot [Rover Marciano](http://www.cantabrobots.es/?page_id=1237) creado y desarrollado por la comunidad [CantaRobots](http://www.cantabrobots.es/).
@@ -26,7 +25,7 @@ Los elementos de nuestro rover:
 ## **App de control**
 
 ### **Blynk**
-Blynk es una plataforma de IoT independiente del hardware y basada en la nube que permite a los usuarios conectar hardware con la nube Blynk segura y de código abierto a través de wifi, 2G-4G, LTE o Ethernet. Manuel
+Blynk es una plataforma de IoT independiente del hardware y basada en la nube que permite a los usuarios conectar hardware con la nube Blynk segura y de código abierto a través de wifi, 2G-4G, LTE o Ethernet.
 <center>
 ![](../img/misionMarte/architectureBlynk.png)
 [Arquitectura Blynk](https://docs.blynk.cc/#getting-started)

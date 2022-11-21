@@ -4,7 +4,7 @@
 
 En contrucción
 </center>
-El robot [EscornaRover](https://www.thingiverse.com/thing:4911480) controlado remotamente con una app (App Inventor) y equipado con un sensor de temperatura por infrarrojos explora la superficie de Marte buscando rocas con hielo y señalizando (luminoso-acústico) su localización.
+El robot [EscornaRover](https://www.thingiverse.com/thing:4911480) controlado remotamente con una app [App Inventor](http://ai2.appinventor.mit.edu) y equipado con un sensor de temperatura por infrarrojos explora la superficie de Marte buscando rocas con hielo y señalizando (luminoso-acústico) su localización.
 
 <center>
 
