@@ -66,8 +66,8 @@ El proyecto de la App tiene dos partes:
 
 Archivos de la App de EscornaRover.
 
-* [Código fuente .aia](/docs/misionMarte/escornaRover03.aia)
-* [App ejecutable en Android .apk](/docs/misionMarte/escornaRover03.apk)
+* [Código fuente .aia](../docs/misionMarte/escornaRover03.aia)
+* [App ejecutable en Android .apk](../docs/misionMarte/escornaRover03.apk)
 
 ## **Programación Arduino Nano**
 
