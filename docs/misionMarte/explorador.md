@@ -21,7 +21,7 @@ Portapilas 2x18650
 |    |    |
 | :-:| :-:|
 | ![tamanoCPU2_12](../img/misionMarte/tamanoCPU2_12.png) | ![tamanoCPU2_20](../img/misionMarte/tamanoCPU2_20.png) |
-| _CPU v2.12_ | _CPU v2.20_ |
+| _CPU v2.12 [XDeSiG](https://github.com/xdesig/escornabot-electronics/blob/master/Electronics/EscornaCPU/2.x/2.12/Caracteristicas_CPU2_12_es.pdf)_ | _CPU v2.20 [XDeSiG](https://github.com/xdesig/escornabot-electronics/blob/master/Electronics/EscornaCPU/2.x/2.20/Escorna_CPU_2_20_Measures.png)_ |
 
 </center>
 
@@ -34,6 +34,7 @@ Portapilas 2x18650
 * Los módulos electrónicos que se añaden son:
     * Módulo bluetooth HC-06 o HC-05 para las comunicación con la app del móvil.
     * Sensor de temperatura por IR.
+
 <center>
 
 |    |    |
@@ -43,6 +44,30 @@ Portapilas 2x18650
 
 </center>
 
-## App de control
+## **App de control**
+El control y comunicación por bluetooth con el robot EscornaRover Explorador se hace mediante una app programada en [App Inventor](http://ai2.appinventor.mit.edu) y de referencia la app de [Escornabot publicada por Lobo_tic](http://ceipmiskatonic.blogspot.com/2015/04/controlar-el-escornabot-por-bluetooth.html).
 
-## Programación Arduino Nano
+El proyecto de la App tiene dos partes:
+### **1.- Diseño de la GUI (interfaz gáfico)**
+<center>
+
+|    |    |
+| :-:| :-:|
+| ![gui01appEscornaRover](../img/misionMarte/gui01appEscornaRover.png) | ![gui02appEscornaRover](../img/misionMarte/gui02appEscornaRover.png) |
+| ![gui01compEscornaRover](../img/misionMarte/gui01compEscornaRover.png) | ![gui02compEscornaRover](../img/misionMarte/gui02compEscornaRover.png) |
+| _Interfaz Gráfico de Usuario (GUI)_ |
+
+</center>
+
+### **2.- Programación bloques**
+<center>
+![progAppEscornabot](../img/misionMarte/progAppEscornabot.png)
+</center>
+
+Archivos de la App de EscornaRover.
+
+* [Código fuente .aia](/docs/misionMarte/escornaRover03.aia)
+* [App ejecutable en Android .apk](/docs/misionMarte/escornaRover03.apk)
+
+## **Programación Arduino Nano**
+
