@@ -70,4 +70,21 @@ Archivos de la App de EscornaRover.
 * [App ejecutable en Android .apk](https://github.com/leobotmanuel/ExploradorEscornaRover/blob/main/docs/misionMarte/escornaRover03.apk)
 
 ## **Programación Arduino Nano**
+La programación se desarrolla con el lenguaje visual de programación [ArduinoBlocks](http://www.arduinoblocks.com) para un proyecto tipo Arduino Nano.
 
+### **Inicialización**
+En el bloque de "Inicializar" colocamos el bloque de comunicación al puerto serie para la comunicación con el módulo bluetooth, las variables y los bloques de configuración de los motores paso a paso.
+<center>
+![](../img/misionMarte/prog01Escornabot.png)
+</center>
+
+### **Funciones**
+Declaramos unas funciones para los movimientos y la señal luminosa de aviso.
+ <center>
+![](../img/misionMarte/prog02Escornabot.png)
+</center>
+
+### **Programa Principal**
+El bloque "Bucle" empieza con los bloques de instrucciones condicionales que recibo los datos de la App y ejecuta la orden recibida. Continua con un bloque temporizador que a cada 500ms envía los datos de temperatura ambiente y del objeto.
+![](../img/misionMarte/prog03Escornabot.png)
+</center>
