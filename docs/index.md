@@ -15,7 +15,3 @@ EscornaRover
 </center>
 En este repositorio encontrarás desarrollo y programación del robot para distintos proyectos.
 <center>
-![](img/introduccion/obrero.gif)
-
-En contrucción
-</center>
