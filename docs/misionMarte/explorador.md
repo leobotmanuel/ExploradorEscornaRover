@@ -86,5 +86,7 @@ Declaramos unas funciones para los movimientos y la señal luminosa de aviso.
 
 ### **Programa Principal**
 El bloque "Bucle" empieza con los bloques de instrucciones condicionales que recibo los datos de la App y ejecuta la orden recibida. Continua con un bloque temporizador que a cada 500ms envía los datos de temperatura ambiente y del objeto.
+ <center>
 ![](../img/misionMarte/prog03Escornabot.png)
 </center>
+Enlace al programa http://www.arduinoblocks.com/web/project/716869
